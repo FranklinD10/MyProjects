@@ -1,2 +1,2 @@
 # MyProjects
-contain all my current development projects.
+contain all my <b>current</b> development <i>projects</i>.
